@@ -1,7 +1,7 @@
-# Hi there, I'm Nlisi! 👋
+# Hello World, I'm Nlisi! 👋
 
-### 🚀 Full-Stack Software Engineer
-Dedicated to building high-performance applications and optimizing technical workflows. I specialize in scalable backend architectures with .NET and Go, and modern frontend experiences with Angular and Next.js.
+### 🚀 Full-Stack & Mobile Software Engineer
+Dedicated to building high-performance applications and optimizing technical workflows. I specialize in scalable backend architectures with .NET, Go, and Spring Boot, modern web experiences with Angular/Next.js, and cross-platform mobile development with Flutter.
 
 ---
 
@@ -9,9 +9,12 @@ Dedicated to building high-performance applications and optimizing technical wor
 
 #### **Languages & Frameworks**
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -31,11 +34,13 @@ Dedicated to building high-performance applications and optimizing technical wor
 
 ### 🏗️ Current Projects
 
-| Project | Description | Stack | Status |
+| Project | Focus | Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Alpha** | A high-concurrency microservice for data processing. | `Go`, `Redis`, `Docker` | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| **Enterprise Portal** | A full-scale management system for technical equipment. | `.NET`, `Angular`, `MS SQL` | ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow) |
-| **Workflow Automator** | Custom Jenkins pipeline scripts for multi-stage deployments. | `Jenkins`, `Azure`, `Git` | ![Maintenance](https://img.shields.io/badge/Status-Complete-blue) |
+| **Zimbabwe Marketplace** | E-commerce | `.NET`, `Next.js`, `SQL Server` | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **Online Healthcare** | Telemedicine | `Go`, `Angular`, `Postgres` | ![In Progress](https://img.shields.io/badge/Status-Developing-yellow) |
+| **eLearning Platform** | Education | `Java`, `Spring Boot`, `Angular` | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **Client Portal** | Enterprise Tools | `Next.js`, `Go`, `Redis` | ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow) |
+| **Master of Coin** | Personal Finance | `Flutter`, `Go`, `SQLite` | ![Personal](https://img.shields.io/badge/Status-Personal_Project-blue) |
 
 ---
 
@@ -48,13 +53,13 @@ Dedicated to building high-performance applications and optimizing technical wor
 ---
 
 ### 🔍 Focus Areas
-- **Backend & Systems:** Designing robust microservices using .NET and Go, with a focus on memory efficiency and system performance.
-- **Modern Web:** Building type-safe, scalable frontends using Angular and Next.js.
-- **DevOps & CI/CD:** Streamlining deployments via Jenkins and Azure DevOps, ensuring high code quality through automated workflows.
+- **Backend Ecosystems:** Expert-level development across **.NET Core**, **Java/Spring Boot**, and **Go** for high-availability systems.
+- **Mobile Development:** Building smooth, cross-platform experiences with **Flutter**.
+- **DevOps Culture:** Automating CI/CD pipelines using **Jenkins** and **Azure DevOps** to ensure robust delivery cycles.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your Profile Link Here]
-- **Portfolio:** [Your Website Link Here]
+- **Website:** [nlisimalaba.co.zw](https://nlisimalaba.co.zw)
+- **LinkedIn:** [Nlisi Malaba](https://www.linkedin.com/in/nlisimalaba/)
 
 ---
 *“Optimizing the bridge between complex systems and user experience.”*
